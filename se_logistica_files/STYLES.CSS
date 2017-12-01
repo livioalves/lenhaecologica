@@ -1,0 +1,82 @@
+A:link { 
+	font-family: verdana, arial;
+	font-size: 7pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: #006600;
+}
+
+A:visited {
+	font-family: verdana, arial;
+	font-size: 7pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: #006600;
+}
+
+A:active {
+	font-family: verdana, arial;
+	font-size: 7pt;
+	font-weight: bold;
+	text-decoration: none;
+	color: #006600;
+}
+A:hover {
+	font-family: verdana, arial; 
+	font-size: 7pt;
+	font-weight: bold;
+	text-decoration: underline;
+	color: #006600
+}
+
+BODY {
+	font-family: verdana, arial;
+	text-align: justify;
+	font-size: 8pt;
+	font-weight: normal;
+	text-decoration: none;
+	SCROLLBAR-FACE-COLOR: #99cc00;
+	SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+	SCROLLBAR-SHADOW-COLOR: #FFFFFF;
+	SCROLLBAR-3DLIGHT-COLOR: #CCCCCC;
+	SCROLLBAR-ARROW-COLOR: #ffffff;
+	SCROLLBAR-TRACK-COLOR: #004665
+}
+
+TABLE {
+	font-family: verdana, arial;
+	text-align: justify;
+	font-size: 8pt;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+span {
+	font-family: verdana, arial;
+	font-size: 8pt;
+	color: #000000;
+	font-weight: normal;
+}
+
+DIV {
+	font-family: verdana, arial;
+	font-size: 8pt;
+	color: #000000;
+	font-weight: normal;
+}
+
+TOOLBAR {
+	color: #FFFFFF;
+}
+.table {
+	border: 1pt solid #999999;
+}
+
+/*
+     FILE ARCHIVED ON 05:14:28 Dec 29, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:49:57 Dec 01, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
